@@ -1,4 +1,3 @@
-#challenge1-repo
 Horiseon Webpage
 
 Refactoring existing code to make sure it meets accessibility the criteria.
