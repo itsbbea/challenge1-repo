@@ -6,7 +6,7 @@ As a bootcamp student, I want to refactor the existing code with semantic HTML e
 
 This project has been updated in order to organize the starter code in a way that is easy to understand for fellow developers who would view this code. 
 
-By structuring the code in seperate sections using semantic HTML elements and updating the CSS stylesheet to fit the elements provided, it will help others with a reliable and streamlined code. Which becomes easy to decipher different parts of the website. 
+By structuring the code in seperate sections using semantic HTML elements, and updating the CSS stylesheet to fit the elements provided, it will help others to view the website with a reliable and streamlined code. This becomes easier to decipher different parts of the website. 
 
 ## Installation
 N/A
