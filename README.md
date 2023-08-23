@@ -8,13 +8,13 @@ I've updated this project in order to organize the starter code given in order t
 
 By structuring the code in seperate sections using semantic HTML elements and updating the CSS stylesheet to fit the elements provided, it will help others with a reliable and streamlined code and can decipher different parts of the website. 
 
-Installation
+## Installation
 N/A
 
-Usage
+## Usage
 
-Credits
+## Credits
 N/A
 
-License
+## License
 Please refer to the LICENSE in the repo.
