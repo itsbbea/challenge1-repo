@@ -2,7 +2,7 @@
 
  ## Description
 
-Refactoring existing code to make sure it meets the accessibility the criteria.
+Refactoring the existing code to make sure it meets the accessibility the criteria.
 
 As a bootcamp student, I want to refactor the existing code with semantic HTML elements so that it is organised and easy to read.
 
