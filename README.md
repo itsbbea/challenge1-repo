@@ -18,6 +18,7 @@ By structuring the code in seperate sections using semantic HTML elements, and u
 N/A
 
 ## Usage
+To access the now refactored webpage, please click on this URL: https://itsbbea.github.io/challenge1-repo/
 
 ## Credits
 N/A
