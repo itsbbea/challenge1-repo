@@ -1,4 +1,4 @@
- ## Week 1 Code Refactor Challenge - Horiseon Webpage
+ ## Horiseon Webpage
 
  ## Description
 
