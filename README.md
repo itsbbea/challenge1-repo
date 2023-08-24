@@ -1,4 +1,4 @@
- ## Horiseon Webpage - Week 1 Code Refactor Challenge
+ ## Week 1 Code Refactor Challenge - Horiseon Webpage
 
 Refactoring existing code to make sure it meets the accessibility the criteria.
 
