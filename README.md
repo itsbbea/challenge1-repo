@@ -4,7 +4,7 @@
 
 Refactoring the existing code to make sure it meets the accessibility the criteria.
 
-As a bootcamp student, I want to refactor the existing code with semantic HTML elements so that it is organised and easy to read.
+As a bootcamp student, my first challenge is to refactor the existing code with semantic HTML elements so that it is organised and easy to read.
 
 This project has been updated with organized and meaningful starter code, that is easy to understand for fellow web developers who would view this code. 
 
