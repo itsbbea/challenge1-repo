@@ -8,6 +8,9 @@ This project has been updated in order to organize the starter code in a way tha
 
 By structuring the code in seperate sections using semantic HTML elements, and updating the CSS stylesheet to fit the elements provided, it will help others to view the website with a reliable and streamlined code. This becomes easier to decipher different parts of the website. 
 
+![Screenshot 2023-08-24 154222](https://github.com/itsbbea/challenge1-repo/assets/137044035/b327d413-8b06-4fc2-9499-edb9c6fe43b8)
+
+
 ## Installation
 N/A
 
